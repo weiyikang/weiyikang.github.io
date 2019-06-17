@@ -4,11 +4,11 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates Computer Science Building, 353 Serra Mall, Stanford, CA 94305<br>
-Email: caozj18 [at] stanford.edu
+T2, Ali Center.<br>
+No. 3239 Keyuan Road, Nanshan District, Shenzhen, P.R.China,<br>
+Email: yabin.zyb [at] alibaba-inc.com
 
-School of Software, Tsinghua University<br>
-East Building, 30 Shuangqing Rd, Beijing, China 100084<br>
-Email: caozj14 [at] mails.tsinghua.edu.cn
+School of Electronic and Information Engineering, South China University of Technology.<br>
+No.381 Wushan Road, Tianhe District, Guangzhou, P.R.China, 510641<br>
+Email: zhang.yabin [at] mail.scut.edu.cn
 
