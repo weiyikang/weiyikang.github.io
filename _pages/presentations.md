@@ -5,12 +5,12 @@ author_profile: true
 
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+ -->
 
 <b>3DV 17 Spotlight on `3D Object Classification via Spherical Projections`.</b> [Slides](http://caozhangjie.github.io/files/SP17_slides.pdf)
 
