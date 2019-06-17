@@ -1,8 +1,8 @@
 ---
-title: "Publications" <!-- [(Google Scholar Profile)]()" -->
+layout: archive
+title: "Publications"   <!-- [(Google Scholar Profile)]()" -->
 permalink: /publications/
 author_profile: true
-
 ---
 
 ## Conference Paper
