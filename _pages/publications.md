@@ -1,5 +1,5 @@
 ---
-title: "Publications" <!-- [(Google Scholar Profile)](https://scholar.google.com/citations?user=pA-TqMEAAAAJ)" -->
+title: "Publications" <!-- [(Google Scholar Profile)]()" -->
 permalink: /publications/
 author_profile: true
 
