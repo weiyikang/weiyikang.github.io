@@ -20,18 +20,18 @@ Now I also work as a Research Intern in DAMO Academy, Alibaba.  Email: csybzhang
 My current research interests include transfer learning, semi-supervised learning, and computer vision. 
 More specifically, I am working on the problem of domain adaptation. I also have experiences on few-shot learning and fine-grained visual categorization.
 
-#Preprints
+<h1>Preprints</h1>
+
 <b>[Semi-supervised Models are Strong Unsupervised Domain Adaptation Learners](https://arxiv.org/pdf/2106.00417.pdf)</b> <br> <b>Yabin Zhang</b>, Haojian Zhang, Bin Deng, Shuai Li, Kui Jia, and Lei Zhang.   <b>[Codes](https://github.com/YBZh/Bridging_UDA_SSL)</b>
 
 <b>[Gradual Domain Adaptation via Self-Training of Auxiliary Models](https://github.com/YBZh/AuxSelfTrain)</b> <br> <b>Yabin Zhang</b>, Bin Deng, Kui Jia, and Lei Zhang.  <b>[Codes](https://github.com/YBZh)</b>
 
-<b>[Unsupervised Domain Adaptation of Black-Box Source Models](https://arxiv.org/pdf/2101.02839.pdf)</b> <br> Haojian Zhang, Yabin Zhang, Kui Jia, and Lei Zhang. 
+<b>[Unsupervised Domain Adaptation of Black-Box Source Models](https://arxiv.org/pdf/2101.02839.pdf)</b> <br> Haojian Zhang, <b>Yabin Zhang</b>, Kui Jia, and Lei Zhang. 
 
-<b>[On Universal Black-Box Domain Adaptation](https://arxiv.org/pdf/2104.04665.pdf)</b> <br> Bin Deng, Yabin Zhang, Hui Tang, Changxing Ding, and Kui Jia.
+<b>[On Universal Black-Box Domain Adaptation](https://arxiv.org/pdf/2104.04665.pdf)</b> <br> Bin Deng, <b>Yabin Zhang</b>, Hui Tang, Changxing Ding, and Kui Jia.
 
 
-
-#Publications
+<h1>Publications</h1>
 
 <b>[Unsupervised multi-class domain adaptation: Theory, algorithms, and practice](https://ieeexplore.ieee.org/document/9253700)</b> <br> <b>Yabin Zhang</b>, Bin Deng, Hui Tang, Lei Zhang, and Kui Jia. <i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.</i> 
 
@@ -44,8 +44,7 @@ More specifically, I am working on the problem of domain adaptation. I also have
 <b>[Fine-grained Visual Categorization using Meta-learning Optimization with Sample Selection of Auxiliary Data](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yabin_Zhang_Fine-Grained_Visual_Categorization_ECCV_2018_paper.pdf)</b> <br> <b>Yabin Zhang</b>, Hui Tang, and Kui Jia. <i>European Conferenceon Computer Vision (ECCV), 2018.</i> 
 
 
-
-#Services
+<h1>Services</h1>
 
 Reviewer of IEEE Transactions on Image Processing (TIP)
 
