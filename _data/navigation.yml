@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Publications"
-    url: /publications/
+#  - title: "CV"
+#    url: /cv/
+#
+#  - title: "Publications"
+#    url: /publications/
 
   # - title: "Presentations"
   #   url: /presentations/
@@ -12,11 +12,11 @@ main:
   # - title: "Professional"
   #   url: /professional_activities/
 
-  - title: "Awards"
-    url: /awards/
-
-  - title: "Contact"
-    url: /contact/
+#  - title: "Awards"
+#    url: /awards/
+#
+#  - title: "Contact"
+#    url: /contact/
 
 #  - title: "test_pages"
 #    url: /test_pages/   

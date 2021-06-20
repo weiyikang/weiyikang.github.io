@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
 ## Conference Paper
 
 <b>[Label propagation with augmented anchors: A simple semi-supervised learning baseline for unsupervised domain adaptation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490749.pdf)</b> <br> <b>Yabin Zhang</b>\*, Bin Deng, Kui Jia, and Lei Zhang. <i>European Conferenceon Computer Vision (ECCV), 2020.</i> 
