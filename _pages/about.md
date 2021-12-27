@@ -14,7 +14,7 @@ redirect_from:
 
 I am a PhD candidate in the Department of Computing, The Hong Kong Polytechnic University (PolyU), advised by [Prof. Lei Zhang](https://scholar.google.co.uk/citations?user=tAK5l1IAAAAJ&hl=en&oi=ao). 
 I received my Bachelor’s and Master's degrees in [South China University of Technology](http://www.scut.edu.cn/), under the supervision of [Prof. Kui Jia](https://scholar.google.co.uk/citations?user=Mf9VHRcAAAAJ&hl=en&oi=ao).
-Now I also work as a Research Intern in DAMO Academy, Alibaba.  Email: csybzhang[at]comp.polyu.edu.hk
+I worked as a Research Intern in DAMO Academy, Alibaba.  Email: csybzhang[at]comp.polyu.edu.hk or ybzhang815[at]gmail.com
 
 
 My current research interests include transfer learning, semi-supervised learning, and computer vision. 
@@ -45,6 +45,6 @@ More specifically, I am working on the problem of domain adaptation. I also have
 
 
 <h1>Services</h1>
-Reviewer of AAAI, Transactions on Image Processing (TIP), and  IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+Reviewer of AAAI, CVPR, Transactions on Image Processing (TIP), and  IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 
