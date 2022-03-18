@@ -26,14 +26,11 @@ More specifically, I am working on the problem of domain adaptation. I also have
 
 <b>[Gradual Domain Adaptation via Self-Training of Auxiliary Models](https://github.com/YBZh/AuxSelfTrain)</b> <br> <b>Yabin Zhang</b>, Bin Deng, Kui Jia, and Lei Zhang.  <b>[Codes](https://github.com/YBZh)</b>
 
-<b>[On Universal Black-Box Domain Adaptation](https://arxiv.org/pdf/2104.04665.pdf)</b> <br> Bin Deng, <b>Yabin Zhang</b>, Hui Tang, Changxing Ding, and Kui Jia.
 
 
 <h1>Publications</h1>
 
-<b>[Unsupervised multi-class domain adaptation: Theory, algorithms, and practice](https://ieeexplore.ieee.org/document/9253700)</b> <br> <b>Yabin Zhang</b>, Bin Deng, Hui Tang, Lei Zhang, and Kui Jia. <i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.</i> 
-
-<b>[Part-aware Fine-grained Object Categorization using Weakly Supervised Part Detection Network](https://ieeexplore.ieee.org/document/8827602)</b> <br> <b>Yabin Zhang</b>, Kui Jia, and Zhixin Wang. <i> IEEE Transactions on Multimedia (TMM), 2019.</i> 
+<b>[Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization](https://arxiv.org/abs/2203.07740)</b> <br> <b>Yabin Zhang</b>, Minghan Li, Ruihuang Li, Kui Jia, and Lei Zhang. <i>CVPR2022.</i> <b>[Codes](https://github.com/YBZh/EFDM)</b> <b>[Supp](https://github.com/YBZh/EFDM/blob/main/Supplementary_Material.pdf)</b>
 
 <b>[Unsupervised Domain Adaptation of Black-Box Source Models](https://arxiv.org/pdf/2101.02839.pdf)</b> <br> Haojian Zhang, <b>Yabin Zhang</b>, Kui Jia, and Lei Zhang. BMVC2021  <b>[Codes](https://github.com/zhjscut/IterLNL)</b>
 
@@ -43,8 +40,12 @@ More specifically, I am working on the problem of domain adaptation. I also have
 
 <b>[Fine-grained Visual Categorization using Meta-learning Optimization with Sample Selection of Auxiliary Data](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yabin_Zhang_Fine-Grained_Visual_Categorization_ECCV_2018_paper.pdf)</b> <br> <b>Yabin Zhang</b>, Hui Tang, and Kui Jia. <i>European Conferenceon Computer Vision (ECCV), 2018.</i> 
 
+<b>[Unsupervised multi-class domain adaptation: Theory, algorithms, and practice](https://ieeexplore.ieee.org/document/9253700)</b> <br> <b>Yabin Zhang</b>, Bin Deng, Hui Tang, Lei Zhang, and Kui Jia. <i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.</i> 
+
+<b>[Part-aware Fine-grained Object Categorization using Weakly Supervised Part Detection Network](https://ieeexplore.ieee.org/document/8827602)</b> <br> <b>Yabin Zhang</b>, Kui Jia, and Zhixin Wang. <i> IEEE Transactions on Multimedia (TMM), 2019.</i> 
+
 
 <h1>Services</h1>
-Reviewer of AAAI, CVPR, Transactions on Image Processing (TIP), and  IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+Reviewer of CVPR, ECCV, AAAI, TIP, TNNLS
 
 
