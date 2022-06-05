@@ -14,11 +14,11 @@ redirect_from:
 
 I am a PhD candidate in the Department of Computing, The Hong Kong Polytechnic University (PolyU), advised by [Prof. Lei Zhang](https://scholar.google.co.uk/citations?user=tAK5l1IAAAAJ&hl=en&oi=ao). 
 I received my Bachelor’s and Master's degrees in [South China University of Technology](http://www.scut.edu.cn/), under the supervision of [Prof. Kui Jia](https://scholar.google.co.uk/citations?user=Mf9VHRcAAAAJ&hl=en&oi=ao).
-I worked as a Research Intern in DAMO Academy, Alibaba.  Email: csybzhang[at]comp.polyu.edu.hk or ybzhang815[at]gmail.com
+I worked as a Research Intern in DAMO Academy, Alibaba during 2019.1-2021.10.  Email: csybzhang[at]comp.polyu.edu.hk or ybzhang815[at]gmail.com
 
 
-My current research interests include transfer learning, semi-supervised learning, and computer vision. 
-More specifically, I am working on the problem of domain adaptation. I also have experiences on few-shot learning and fine-grained visual categorization.
+My current research interests include transfer learning, self-supervised learning, semi-supervised learning, and computer vision. 
+More specifically, I am working on the problem of domain generalization and self-supervised learning. 
 
 <h1>Preprints</h1>
 
@@ -30,7 +30,7 @@ More specifically, I am working on the problem of domain adaptation. I also have
 
 <h1>Publications</h1>
 
-<b>[Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization](https://arxiv.org/abs/2203.07740)</b> <br> <b>Yabin Zhang</b>, Minghan Li, Ruihuang Li, Kui Jia, and Lei Zhang. <i>CVPR2022.</i> <b>[Codes](https://github.com/YBZh/EFDM)</b> <b>[Supp](https://github.com/YBZh/EFDM/blob/main/Supplementary_Material.pdf)</b>
+<b>[Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization](https://arxiv.org/abs/2203.07740)</b> <br> <b>Yabin Zhang</b>, Minghan Li, Ruihuang Li, Kui Jia, and Lei Zhang. <i>CVPR2022 Oral.</i> <b>[Codes](https://github.com/YBZh/EFDM)</b> <b>[Supp](https://github.com/YBZh/EFDM/blob/main/Supplementary_Material.pdf)</b>
 
 <b>[Unsupervised Domain Adaptation of Black-Box Source Models](https://arxiv.org/pdf/2101.02839.pdf)</b> <br> Haojian Zhang, <b>Yabin Zhang</b>, Kui Jia, and Lei Zhang. BMVC2021  <b>[Codes](https://github.com/zhjscut/IterLNL)</b>
 
@@ -46,6 +46,6 @@ More specifically, I am working on the problem of domain adaptation. I also have
 
 
 <h1>Services</h1>
-Reviewer of CVPR, ECCV, AAAI, TIP, TNNLS
+Reviewer of CVPR2022, ECCV2022, AAAI2022, TIP, TNNLS, ML, TMLR
 
 
