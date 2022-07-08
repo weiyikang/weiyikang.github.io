@@ -22,6 +22,8 @@ More specifically, I am working on the problem of domain generalization and self
 
 <h1>Preprints</h1>
 
+<b>[Masked Surfel Prediction for Self-Supervised Point Cloud Learning](https://arxiv.org/abs/2207.03111)</b> <br> <b>Yabin Zhang</b>, Jiehong Lin, Chenhang He, Yongwei Chen, Kui Jia, and Lei Zhang.   <b>[Codes](https://github.com/YBZh/MaskSurf)</b>
+
 <b>[Semi-supervised Models are Strong Unsupervised Domain Adaptation Learners](https://arxiv.org/pdf/2106.00417.pdf)</b> <br> <b>Yabin Zhang</b>, Haojian Zhang, Bin Deng, Shuai Li, Kui Jia, and Lei Zhang.   <b>[Codes](https://github.com/YBZh/Bridging_UDA_SSL)</b>
 
 <b>[Gradual Domain Adaptation via Self-Training of Auxiliary Models](https://github.com/YBZh/AuxSelfTrain)</b> <br> <b>Yabin Zhang</b>, Bin Deng, Kui Jia, and Lei Zhang.  <b>[Codes](https://github.com/YBZh)</b>
