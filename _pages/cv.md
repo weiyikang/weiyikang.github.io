@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Yabin Zhang (张亚斌)"
+title: "Yikang Wei (魏义康)"
 permalink: /cv/
 author_profile: true
 redirect_from:
