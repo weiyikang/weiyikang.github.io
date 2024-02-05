@@ -8,14 +8,14 @@ author_profile: true
 
 ## Conference Paper
 
-<b>[Label propagation with augmented anchors: A simple semi-supervised learning baseline for unsupervised domain adaptation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490749.pdf)</b> <br> <b>Yabin Zhang</b>\*, Bin Deng, Kui Jia, and Lei Zhang. <i>European Conferenceon Computer Vision (ECCV), 2020.</i> 
+<b>[Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization](https://arxiv.org/abs/2401.10272)</b> <br> <b>Yikang Wei</b>, Yahong Han. <i>AAAI Conference on Artificial Intelligence (AAAI), 2024.</i> <b>[Codes](https://github.com/weiyikang/FedGM_torch)</b> <b>[weixin]()</b> <b>[Video]()</b>
 
-<b>[Domain-Symnetric Networks for Adversarial Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.pdf)</b> <br> <b>Yabin Zhang</b>\*, Hui Tang, Kui Jia, and Mingkui Tan. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i> 
-
-<b>[Fine-grained Visual Categorization using Meta-learning Optimization with Sample Selection of Auxiliary Data](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yabin_Zhang_Fine-Grained_Visual_Categorization_ECCV_2018_paper.pdf)</b> <br> <b>Yabin Zhang</b>\*, Hui Tang, and Kui Jia. <i>European Conferenceon Computer Vision (ECCV), 2018.</i> 
+<b>[Exploring Instance Relation for Decentralized Multi-Source Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10096982)</b> <br> <b>Yikang Wei</b>, Yahong Han. <i>ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).</i> <b>[Codes](https://gitee.com/luckyyk/irc-msda)</b> <b>[Video]()</b>
 
 ## Journal Paper
 
-<b>[Unsupervised multi-class domain adaptation: Theory, algorithms, and practice](https://ieeexplore.ieee.org/document/9253700)</b> <br> <b>Yabin Zhang</b>\*, Bin Deng, Hui Tang, Lei Zhang, and Kui Jia. <i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.</i> 
+<b>[Multi-Source Collaborative Contrastive Learning for Decentralized Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/9940295)</b> <br> <b>Yikang Wei</b>, Yahong Han. <i>IEEE Transactions on Circuits and Systems for Video Technology 33 (5), 2202-2216, 2023.</i> <b>[Codes](https://github.com/weiyikang/MCC-DA)</b>
 
-<b>[Part-aware Fine-grained Object Categorization using Weakly Supervised Part Detection Network](https://ieeexplore.ieee.org/document/8827602)</b> <br> <b>Yabin Zhang</b>\*, Kui Jia, and Zhixin Wang. <i> IEEE Transactions on Multimedia (TMM), 2019.</i> 
+<b>[Dual Collaboration for Decentralized Multi-Source Domain Adaptation](https://link.springer.com/article/10.1631/FITEE.2200284)</b> <br> <b>Yikang Wei</b>, Yahong Han. <i> Frontiers of Information Technology & Electronic Engineering 23, 1780-1794, 2022</i> <b>[weixin](https://mp.weixin.qq.com/s?src=11&timestamp=1707115236&ver=5061&signature=FHy0XEEjjUkDn9wnOUyj7L1u1kXOi9yL4REil5HU8kF7L2pmnZo5I0jZNo8OBeNcnr6OCdbtptfkEvDeWmhk0Nz8FY7jytDEb7ygwml-pmuH277ftf1EyWstvh5munyf&new=1)</b>
+
+<b>[Locality Sensitive Discriminant Projection for Feature Extraction and Face Recognition](https://www.researchgate.net/publication/335378525_Locality_Sensitive_Discriminant_Projection_for_Feature_Extraction_and_Face_Recognition)</b> <br> <b>Yikang Wei</b>, Cong Jin. <i> Journal of Electronic Imaging 28 (4), 043028, 2019.</i> 
