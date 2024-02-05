@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yabin Zhang"
+title                    : "Yikang Wei"
 title_separator          : "-"
-name                     : &name "Yabin Zhang"
-description              : &description "PhD candidate in the Department of Computing, The Hong Kong Polytechnic University (PolyU)"
-url                      : https://YBZh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yikang Wei"
+description              : &description "PhD candidate in the College of Intelligence and Computing, The Tianjin University (TJU)"
+url                      : https://weiyikang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YBZh/YBZh.github.io"
+repository               : "weiyikang/weiyikang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yabin Zhang"
-  avatar           : "yabinzhang.jpg"
-  bio              : "PhD candidate in the Department of Computing, The Hong Kong Polytechnic University (PolyU)"
-  location         : "Guangzhou China"
+  name             : "Yikang Wei"
+  avatar           : "yikang.jpg"
+  bio              : "PhD candidate in the College of Intelligence and Computing, The Tianjin University (TJU)"
+  location         : "Tianjin China"
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=p0GLwtoAAAAJ&hl=en
-  email            : csybzhang@comp.polyu.edu.hk
+  email            : yikang@tju.edu.cn
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : YBZh
+  github           : weiyikang
   google_plus      :
   keybase          :
   instagram        :
