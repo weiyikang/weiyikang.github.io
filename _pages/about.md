@@ -14,6 +14,7 @@ redirect_from:
 
 I am a PhD candidate in the College of Intelligence and Computing, The Tianjin University (TJU), advised by [Prof. Yahong Han](https://scholar.google.com/citations?user=t4283loAAAAJ&hl=zh-CN). 
 I received my Master's degrees in the School of Computer, the Central China Normal University (CCNU), under the supervision of [Prof. Cong Jin](https://www.researchgate.net/profile/Cong-Jin-5).
+
 Email: yikang[at]tju.edu.cn or 1257399870[at]qq.com
 
 My current research interests include federated learning, domain adaptation, domain generalization, and computer vision. I am looking for a post-doctoral position.
