@@ -17,7 +17,7 @@ and the Master's degree in the School of Computer, Central China Normal Universi
 
 Email: yikang[at]tju.edu.cn or 1257399870[at]qq.com
 
-My current research interests include federated learning, domain adaptation, domain generalization, and computer vision. I am looking for a post-doctoral position.
+My research interests include federated learning, domain adaptation, domain generalization, and computer vision. I am looking for a post-doctoral position.
 
 <!-- <h1>Preprints</h1>
 
