@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Yikang Wei"
   avatar           : "yikang.jpg"
-  bio              : "PhD candidate in the College of Intelligence and Computing, Tianjin University (TJU)"
-  location         : "Tianjin China"
+  bio              : "Doctor of Engineering in the College of Intelligence and Computing, Tianjin University (TJU)"
+  location         : "Tianjin, China"
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=KqlFWhIAAAAJ&hl=zh-CN
   email            : yikang@tju.edu.cn
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : https://orcid.org/0000-0003-3113-9817
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -109,9 +109,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : https://www.youtube.com/@yikangwei9845/featured
   wikipedia        :
-  Wechat           : 
+  Wechat           :
 
 
 # Reading Files
