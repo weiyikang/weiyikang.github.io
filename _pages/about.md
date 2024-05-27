@@ -12,8 +12,8 @@ redirect_from:
   <img src="https://caozhangjie.github.io/files/caozhangjie_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p> -->
 
-I received the Doctor of Engineering degree in the College of Intelligence and Computing, Tianjin University (TJU), advised by [Prof. Yahong Han](https://scholar.google.com/citations?user=t4283loAAAAJ&hl=zh-CN). 
-I received my Master's degree in the School of Computer, Central China Normal University (CCNU), advised by [Prof. Cong Jin](https://www.researchgate.net/profile/Cong-Jin-5).
+I received the Doctor of Engineering degree in the College of Intelligence and Computing, Tianjin University (TJU), advised by [Prof. Yahong Han](https://scholar.google.com/citations?user=t4283loAAAAJ&hl=zh-CN), 
+and the Master's degree in the School of Computer, Central China Normal University (CCNU), advised by [Prof. Cong Jin](https://www.researchgate.net/profile/Cong-Jin-5).
 
 Email: yikang[at]tju.edu.cn or 1257399870[at]qq.com
 
