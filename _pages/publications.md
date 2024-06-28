@@ -8,9 +8,9 @@ author_profile: true
 
 ## Conference Paper
 
-<b>[Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization](https://arxiv.org/abs/2401.10272)</b> <br> <b>Yikang Wei</b>, Yahong Han. <i>AAAI Conference on Artificial Intelligence (AAAI), 2024.</i> <b>[Code](https://github.com/weiyikang/FedGM_torch)</b> <b>[Zhihu](https://zhuanlan.zhihu.com/p/695393958)</b> <b>[YouTube](https://youtu.be/z9qP_ezXGRE)</b>
+<b>[Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization](https://arxiv.org/abs/2401.10272)</b> <br> <b>Yikang Wei</b>, Yahong Han. <i>Proceedings of the AAAI Conference on Artificial Intelligence 38 (14), 15805-15813, 2024.</i> <b>[Code](https://github.com/weiyikang/FedGM_torch)</b> <b>[Zhihu](https://zhuanlan.zhihu.com/p/695393958)</b> <b>[YouTube](https://youtu.be/z9qP_ezXGRE)</b>
 
-<b>[Exploring Instance Relation for Decentralized Multi-Source Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10096982)</b> <br> <b>Yikang Wei</b>, Yahong Han. <i>ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).</i> <b>[Code](https://gitee.com/luckyyk/irc-msda)</b> <b>[YouTube](https://youtu.be/oCGEhTlYx2c)</b>
+<b>[Exploring Instance Relation for Decentralized Multi-Source Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10096982)</b> <br> <b>Yikang Wei</b>, Yahong Han. <i>ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 1-5, 2023.</i> <b>[Code](https://gitee.com/luckyyk/irc-msda)</b> <b>[YouTube](https://youtu.be/oCGEhTlYx2c)</b>
 
 ## Journal Paper
 
